@@ -6,7 +6,7 @@ This repo represents the blockchain server & database written as a final group p
 In order to meet our initial MVP, our aim is to write a back-end API in **Python** mimicking how blockchain technology processes and validates transactions. These transactions are stored on our dummy 'blockchain', a basic Postgres database.
 Once our MVP has been met, our second goal is to remove the **Python** layer and replace it with a smart-contract driven blockchain running on the **Ethereum** network.
 
-Team Blockhead's full project log [can be read here]().
+Team Blockhead's full project log [can be read here](https://hackmd.io/FugFiGBnQ0ivaJpLaANYhQ#).
 
 ## Contributors
 * [Ben Luke Smith-Gordon](https://github.com/Ben-893)
